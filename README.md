@@ -1,4 +1,17 @@
-hiii !!
+### Hey There 👋😊
+
+I'm a data scientist in the making. I love tinkering with data, training AI models and making fun visulaizations.
+
+If I got a fun idea, I'm not afraid to implement it. 
+
+Tech Stack: Python, PowerBI, R, SQL Databases ( PostgreSQL, MySQL, SQLite ) 
+
+Python libraries I love: numpy, pandas, pytorch, tensorflow, keras
+
+You can find my projects below. my favorite is (mmm modelling)[https://github.com/keerthanaharikumar/mixed-media-modeling]
+
+<!--
+hiii !! 
 
 you can find my projects here :)
 
@@ -13,3 +26,4 @@ you can find my projects here :)
 - [deep learning with keras and tensorflow](https://github.com/keerthanaharikumar/dl-keras)
 - [Online Art Store](https://github.com/keerthanaharikumar/galleria)
 - [online pet store with php](https://github.com/keerthanaharikumar/woofs)
+-->
