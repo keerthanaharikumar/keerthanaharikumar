@@ -8,8 +8,8 @@ Tech Stack: Python, PowerBI, R, SQL Databases ( PostgreSQL, MySQL, SQLite )
 
 Python libraries I love: numpy, pandas, pytorch, tensorflow, keras
 
-You can find my projects below. my favorite is (mmm modelling)[https://github.com/keerthanaharikumar/mixed-media-modeling]
-
+You can find my projects below. my favorite is (https://github.com/keerthanaharikumar/mixed-media-modeling)[Marketing Mix Modeling]
+mmm modelling
 <!--
 hiii !! 
 
