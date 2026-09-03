@@ -2,14 +2,14 @@
 
 I'm a data scientist in the making. I love tinkering with data, training AI models and making fun visulaizations.
 
-If I got a fun idea, I'm not afraid to implement it. 
+If I've got a fun idea, I'm not afraid to implement it. 
 
 Tech Stack: Python, PowerBI, R, SQL Databases ( PostgreSQL, MySQL, SQLite ) 
 
 Python libraries I love: numpy, pandas, pytorch, tensorflow, keras
 
-You can find my projects below. my favorite is (https://github.com/keerthanaharikumar/mixed-media-modeling)[Marketing Mix Modeling]
-mmm modelling
+You can find my projects below. my favorite is [Marketing Mix Modeling](https://github.com/keerthanaharikumar/mixed-media-modeling)
+
 <!--
 hiii !! 
 
